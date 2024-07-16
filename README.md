@@ -12,7 +12,7 @@
 - The similarity matrix is then converted into a graph, with sentences as vertices and similarity scores as edges, for sentence rank calculation
 - Finally, a certain number of top-ranked sentences form the final summary
 
-##### Note : This project is essentially a single-domain-multiple-documents summarization task, i.e., we will take multiple articles as input and generate a single bullet-point summary. Multi-domain text summarization is not covered in this project.
+##### Note : This project is essentially a single-domain-multiple-documents summarization task, i.e., we take multiple articles as input and generate a single bullet-point summary. Multi-domain text summarization is not covered in this project.
 
 ### You can download the dataset from here : https://drive.google.com/file/d/1HPShiXSrHMNlfcMZn-WFYjoftitOH9fJ/view
 
